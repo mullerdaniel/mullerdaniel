@@ -71,14 +71,6 @@ Meu nome é Daniel Müller, tenho 18 anos e sou de Schroeder (SC). Estou no últ
 />
 <img 
     align="left" 
-    alt="Canva" 
-    title="Canva" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Arduino" 
     title="Arduino" 
     width="40px" 
