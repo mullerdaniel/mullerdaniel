@@ -1,6 +1,6 @@
 # 👨‍💻 Daniel Müller
 
-Meu nome é Daniel Müller, tenho 18 anos e sou de Schroeder (SC). Estou no último ano do Ensino Médio e sou Jovem Aprendiz na WEG, onde estou me aprofundando em desenvolvimento de sistemas, programação e banco de dados. Tenho me dedicado a crescer na área de tecnologia, com o objetivo de construir uma carreira sólida e trazer soluções inovadoras.
+Me chamo Daniel Müller, tenho 18 anos e sou de Schroeder (SC). Sou Jovem Aprendiz na WEG, onde estou me aprofundando em desenvolvimento de sistemas, programação e banco de dados. Tenho me dedicado a crescer na área de tecnologia, com o objetivo de construir uma carreira sólida e trazer soluções inovadoras.
 
 ---
 
