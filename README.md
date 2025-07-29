@@ -91,21 +91,21 @@ Meu nome é Daniel Müller, tenho 18 anos e sou de Schroeder (SC). Estou no últ
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    <img src="https://github-readme-stats.vercel.app/api?username=mullerdaniel&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"
-  />
+<img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=mullerdaniel&show_icons=true&count_private=true&theme=tokyonight&locale=pt-br&cache_seconds=1800" 
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerdaniel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30" 
-  />
+  align="left" 
+  alt="Top Langs" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerdaniel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=30" 
+/>
+
 <div >
 
 
