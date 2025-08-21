@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BABABA&height=120&section=header"/>
 
-# 👨‍💻 Daniel Müller
+# • Daniel Müller
 
 Me chamo Daniel Müller, tenho 18 anos e sou de Schroeder (SC). Sou Jovem Aprendiz na WEG, onde estou me aprofundando em desenvolvimento de sistemas, programação e banco de dados. Tenho me dedicado a crescer na área de tecnologia, com o objetivo de construir uma carreira sólida e trazer soluções inovadoras.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### • Linguagens e Tecnologias
 <img 
     align="left" 
     alt="HTML" 
