@@ -117,6 +117,6 @@ Me chamo Daniel Müller, tenho 18 anos e sou de Schroeder (SC). Sou Jovem Aprend
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mullerdaniel&bg_color=0d1117&color=eceff4&line=8b0000&point=eceff4&area=true&hide_border=true)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mullerdaniel&bg_color=0d1117&color=eceff4&line=8b0000&point=eceff4&area=true&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BABABA&height=120&section=footer"/>
