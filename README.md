@@ -86,23 +86,18 @@ Me chamo Daniel Müller, tenho 18 anos e sou de Schroeder (SC). Sou Jovem Aprend
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mullerdaniel&show_icons=true&count_private=true&theme=dark&locale=pt-br&cache_seconds=1800" 
-    alt="Estatísticas do GitHub de Daniel Müller" 
-    height="200"
-/>
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mullerdaniel&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800" 
-    alt="Tecnologias mais usadas" 
-    height="200"
-/>
+<div align = "center">
+
+<p align="center">
+ 
+<img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api?username=mullerdaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="400"/>
+
+<img height="180em" src="https://github-readme-stats-beta-seven-51.vercel.app/api/top-langs/?username=mullerdaniel&layout=compact&theme=dark" width="400"/>
+
+
+</p>
+
+</div>
 
 <div >
 
